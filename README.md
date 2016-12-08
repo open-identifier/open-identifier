@@ -12,7 +12,7 @@ Currently, the way that this is solved is through a process called "cookie mappi
 
 The problem with this method is that there is a growing number of ad companies, and these companies partner with lots of other companies.  What seems like a straightforward solution for two companies becomes complex as the number of companies grow.  For example, if Company A worked with 7 other companies, there would be a total of 54 requests, whereas if each company just worked with a central hub, there would be 16 requests, less than 1/3 the amount of web traffic:
 
-!(https://docs.google.com/drawings/d/1lxv1EKDxpBSKkesH-UU7MVLfhGg8PBWuljZblBTUtoY/pub?w=1106&h=580)[cookie mapping spoke vs. wheel visualization]
+![https://docs.google.com/drawings/d/1lxv1EKDxpBSKkesH-UU7MVLfhGg8PBWuljZblBTUtoY/pub?w=1106&h=580](cookie mapping spoke vs. wheel visualization)
 
 The following are benefits:
 
