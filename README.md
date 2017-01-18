@@ -8,6 +8,7 @@ Open Identifier serves to provide the following functions:
 
 * Anonomize user identification, therefore providing a guarantee that customer data is kept solely with the owner
 * Simplify the process of cookie mapping by an ad platform - one map to Open Identifier is all that is needed
+* Increase the percentage of visitors identified, by (hopefully) consolidating on a open source, agnostic domain for identification purposes - no need to map to multiple providers
 * Reduce web traffic, thus making pages serve faster
 
 ## Anonomize User Identification
