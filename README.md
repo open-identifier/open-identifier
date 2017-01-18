@@ -2,6 +2,20 @@
 
 Open Identifier is a project which attempts to solve an issue which plagues the advertising industry:  How to integrate two different ad systems which use different identifier for members of their viewing audience.
 
+## Functions
+
+Open Identifier serves to provide the following functions:
+
+* Anonomize user identification, therefore providing a guarantee that customer data is kept solely with the owner
+* Simplify the process of cookie mapping by an ad platform - one map to Open Identifier is all that is needed
+* Reduce web traffic, thus making pages serve faster
+
+## Anonomize User Identification
+
+By using Open Identifier, advertisers and publishers add an open identifier tag to their web page.  An IFRAME is created, and a script runs to check which platforms have already synced with Open Identifier.  Up to five additional platforms are sync'ed inside the IFRAME, so the platform cannot use referrer data to see which site the user is visiting. 
+
+## Cookie Mapping
+
 Currently, the way that this is solved is through a process called "cookie mapping".  The process of cookie mapping is as follows:
 
 1. Company A wants to integrate with Company B, so they agree to a "partnership"
